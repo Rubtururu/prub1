@@ -1,4 +1,4 @@
-var contractAddress="0x9bfbb38fa974032fa65debacdac73daa4ba13766";
+var contractAddress="0x298d4BD0904D1C79D57879d834fbb7025f8C28C2";
 
 /* WEB3 DETECTION */
 var web3;
